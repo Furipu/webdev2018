@@ -36,10 +36,10 @@
             <?php
                 PageBuilder::showMain();
             ?>
-            
+
             <?php
             $superHeroMan = new NewClass("ne string");
-            $superHeroMan->canFly();
+            $superHeroMan->canFly(); 
             ?>
 
         </main>
